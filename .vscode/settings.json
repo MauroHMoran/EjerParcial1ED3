@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "lpc17xx.h": "c",
+        "lpc17xx_pinsel.h": "c"
+    }
+}
